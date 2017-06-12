@@ -11,7 +11,7 @@ extract data from ExcelExtractor once for all , contains all kinds of feature in
 
 * third .  auto table creation . insertion . 
 
-* four .   auto row recognition . remove wired row . recognise which row is the real row that need to be save. 
+* four .   auto row recognition . remove weird row . recognise which row is the real row that need to be save. 
 
 #### how to use it ? 
 
