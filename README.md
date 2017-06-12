@@ -1,7 +1,7 @@
 # ExcelExtractor
 extract data from ExcelExtractor once for all , contains all kinds of feature including auto table creation , row recognition and so on. 
 
-### The Altimate Excel data extract tools . 
+### The ultimate Excel data extract tools . 
 
 #### what this tools can do ?
 
